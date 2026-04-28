@@ -2,10 +2,10 @@
 
 This repository contains my LeetCode problem-solving journey focused on improving Data Structures & Algorithms skills for coding interviews.
 
-## 👨‍💻 Language Used
+##Language Used
 - Java
 
-## 📚 Topics Covered
+##Topics Covered
 - Arrays
 - Strings
 - Linked Lists
@@ -14,8 +14,8 @@ This repository contains my LeetCode problem-solving journey focused on improvin
 - Recursion
 - Dynamic Programming
 
-## 📈 Progress
+## Progress
 Solved problems regularly and updating consistently.
 
-## 🎯 Goal
+## Goal
 Strengthen problem-solving skills and prepare for software engineering interviews.
