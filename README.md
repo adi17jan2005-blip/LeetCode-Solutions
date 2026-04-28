@@ -15,7 +15,7 @@ This repository contains my LeetCode problem-solving journey focused on improvin
 - Dynamic Programming
 
 ## Progress
-Solved problems regularly and updating consistently.
+Currently solving problems daily and expanding coverage across core DSA topics.
 
 ## Goal
 Strengthen problem-solving skills and prepare for software engineering interviews.
