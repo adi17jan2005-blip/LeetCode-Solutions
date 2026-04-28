@@ -1,14 +1,21 @@
-# LeetCode-Solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
-<!---LeetCode Topics End-->
+This repository contains my LeetCode problem-solving journey focused on improving Data Structures & Algorithms skills for coding interviews.
+
+## 👨‍💻 Language Used
+- Java
+
+## 📚 Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- HashMap
+- Recursion
+- Dynamic Programming
+
+## 📈 Progress
+Solved problems regularly and updating consistently.
+
+## 🎯 Goal
+Strengthen problem-solving skills and prepare for software engineering interviews.
