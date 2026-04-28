@@ -25,9 +25,14 @@ Strengthen problem-solving skills and prepare for software engineering interview
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
