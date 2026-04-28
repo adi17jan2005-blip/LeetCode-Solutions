@@ -2,10 +2,10 @@
 
 This repository contains my LeetCode problem-solving journey focused on improving Data Structures & Algorithms skills for coding interviews.
 
-##Language Used
+## Language Used
 - Java
 
-##Topics Covered
+## Topics Covered
 - Arrays
 - Strings
 - Linked Lists
