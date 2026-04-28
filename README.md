@@ -19,3 +19,15 @@ Currently solving problems daily and expanding coverage across core DSA topics.
 
 ## Goal
 Strengthen problem-solving skills and prepare for software engineering interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+<!---LeetCode Topics End-->
