@@ -31,6 +31,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0035-search-insert-position](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,8 +65,17 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 <!---LeetCode Topics End-->
