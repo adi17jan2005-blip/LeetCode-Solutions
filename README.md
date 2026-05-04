@@ -32,6 +32,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
