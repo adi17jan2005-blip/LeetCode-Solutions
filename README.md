@@ -50,6 +50,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0001-two-sum](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,8 +81,10 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
