@@ -56,6 +56,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Sliding Window
