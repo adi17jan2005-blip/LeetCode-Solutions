@@ -88,6 +88,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,8 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
