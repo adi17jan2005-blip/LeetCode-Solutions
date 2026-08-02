@@ -31,6 +31,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0035-search-insert-position](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -47,6 +48,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -89,6 +91,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | ------- | ------- |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
