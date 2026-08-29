@@ -28,6 +28,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0001-two-sum](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -55,6 +56,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
