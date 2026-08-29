@@ -47,6 +47,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [1652-defuse-the-bomb](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,8 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
