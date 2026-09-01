@@ -32,6 +32,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0035-search-insert-position](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -70,6 +71,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -197,4 +199,8 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
