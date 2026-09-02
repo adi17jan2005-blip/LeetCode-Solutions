@@ -30,6 +30,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0027-remove-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -112,6 +113,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -202,5 +204,6 @@ Strengthen problem-solving skills and prepare for software engineering interview
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
