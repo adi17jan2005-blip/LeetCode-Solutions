@@ -33,6 +33,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0048-rotate-image](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -198,6 +199,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -208,5 +210,6 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
