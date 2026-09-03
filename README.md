@@ -54,6 +54,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -201,6 +202,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0054-spiral-matrix](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,4 +214,9 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0054-spiral-matrix](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 <!---LeetCode Topics End-->
