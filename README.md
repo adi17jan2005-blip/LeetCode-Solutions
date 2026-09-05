@@ -44,6 +44,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0136-single-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -81,6 +82,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0128-longest-consecutive-sequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0229-majority-element-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -111,6 +113,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0075-sort-colors](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -141,6 +144,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Heap (Priority Queue)
@@ -194,6 +198,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
