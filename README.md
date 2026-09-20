@@ -102,6 +102,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0796-rotate-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0059-spiral-matrix-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
