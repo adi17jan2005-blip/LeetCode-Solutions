@@ -72,6 +72,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -206,6 +208,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
