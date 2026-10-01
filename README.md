@@ -44,6 +44,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -214,6 +215,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | [0053-maximum-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
