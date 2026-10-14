@@ -243,6 +243,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
