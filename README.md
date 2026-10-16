@@ -243,6 +243,7 @@ Strengthen problem-solving skills and prepare for software engineering interview
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Prefix Sum
@@ -250,4 +251,8 @@ Strengthen problem-solving skills and prepare for software engineering interview
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adi17jan2005-blip/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
