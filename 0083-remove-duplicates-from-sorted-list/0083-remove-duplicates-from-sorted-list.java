@@ -19,19 +19,16 @@ class Solution {
         ListNode prev=head;
         while(temp!=null)
         {
-            while(prev.val==temp.val && temp.next!=null)
+            if(prev.val==temp.val )
             {
                 prev.next=temp.next;
-                ListNode curr=temp;
                 temp=temp.next;
-                curr.next=null;
             }
-            if(prev.val==temp.val && temp.next==null)
+            else
             {
-                prev.next=null;
+                prev=temp;
+                temp=temp.next;
             }
-            temp=temp.next;
-            prev=prev.next;
         }
         return head;
         
